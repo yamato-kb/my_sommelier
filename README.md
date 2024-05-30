@@ -65,3 +65,7 @@ MVP
 - Webアプリケーションサーバ: Fly.io
 - ユーザ登録及び認証機能: Sorcery
 - 診断、レコメンド機能：アルゴリズム
+
+
+### 画面遷移図
+Figma：https://www.figma.com/design/p2rXTXbW2eLftk2K08TrpP/my_sommelier?node-id=0-1&t=5KKMqTlI5Wmdyw4Y-1
